@@ -1,0 +1,9 @@
+[source]
+server = {source_mailserver}
+user = 	{sorce_username}
+pass = 	{source_password}
+
+[sink]
+server = {sink_mailserver}
+user = {sink_username}
+pass = {sink_password}
